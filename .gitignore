@@ -1,0 +1,8 @@
+*.swp
+*.o
+*.a
+mtc
+
+regress/mobject_*
+regress/mtemplate_t0
+regress/t_strstcpy
