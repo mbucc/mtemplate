@@ -14,7 +14,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-/* $Id: mobject.h,v 1.14 2007/07/07 02:47:20 djm Exp $ */
 
 /* Simple generic object system, loosely modelled on Python's */
 

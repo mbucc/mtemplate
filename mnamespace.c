@@ -14,7 +14,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-/* $Id: mnamespace.c,v 1.8 2007/07/07 00:07:55 djm Exp $ */
 
 /* Namespace resolution */
 

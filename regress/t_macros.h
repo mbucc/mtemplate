@@ -3,7 +3,6 @@
  * Public domain -- Damien Miller <djm@mindrot.org> 2007-03-27
  */
 
-/* $Id: t_macros.h,v 1.4 2007/04/19 07:51:49 djm Exp $ */
 
 #ifndef _T_MACROS_H
 #define _T_MACROS_H

@@ -3,7 +3,6 @@
  * Public domain -- Damien Miller <djm@mindrot.org> 2007-03-27
  */
 
-/* $Id: t_strstcpy.c,v 1.2 2007/04/18 10:54:25 djm Exp $ */
 
 #include <sys/types.h>
 #include <sys/param.h>

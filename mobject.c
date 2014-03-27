@@ -14,7 +14,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-/* $Id: mobject.c,v 1.13 2011/09/30 21:17:14 djm Exp $ */
 
 /* Simple generic object system, loosely modelled on Python's */
 

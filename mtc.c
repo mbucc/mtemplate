@@ -14,7 +14,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-/* $Id: mtc.c,v 1.7 2007/07/05 02:01:59 djm Exp $ */
 
 /* Simple mtemplate command line processor */
 

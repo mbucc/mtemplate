@@ -3,7 +3,6 @@
  * Public domain -- Damien Miller <djm@mindrot.org> 2007-03-27
  */
 
-/* $Id: mobject_t1.c,v 1.7 2007/07/07 00:07:55 djm Exp $ */
 
 #include <sys/types.h>
 #include <sys/param.h>

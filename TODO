@@ -97,4 +97,3 @@ shared library support
 	
 	xdict_insert_scopy(d, k, obj)
 
-$Id: TODO,v 1.10 2007/07/07 00:07:55 djm Exp $

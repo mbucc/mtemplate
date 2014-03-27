@@ -14,7 +14,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-/* $Id: mtemplate.h,v 1.9 2007/07/05 02:01:59 djm Exp $ */
 
 /* Simple template system */
 

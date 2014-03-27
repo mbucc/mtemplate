@@ -14,7 +14,6 @@
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 
-/* $Id: helpers.c,v 1.8 2007/07/07 02:47:20 djm Exp $ */
 
 #include <sys/types.h>
 #include <stddef.h>
