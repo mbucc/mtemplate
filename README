@@ -63,7 +63,7 @@ useful. An example invocation:
 
 To build mtemplate, just run "make". There are a bunch of regression
 tests for mtemplate, mobject and some infrastructure bits; they may be
-run through "make tests".
+run through "make test".
 
 Damien Miller <djm@mindrot.org> 2007-04-06
 
