@@ -1,3 +1,16 @@
+***************************************************************************
+
+   NOTE:
+
+   This library does not escape any variable values.  If you are generat-
+   ing HTML, take care that no JavaScript can be injected into the result
+   or you will open the door to cross-site scripting.
+
+   For more info on cross-site scripting, see:
+
+   http://google-ctemplate.googlecode.com/svn/trunk/doc/xss_resources.html
+
+***************************************************************************
 
 This is mtemplate, a very simple text templating system. It has been
 written for some small code generators (cfsm[1] in particular), but
@@ -43,7 +56,7 @@ Value:{{v.value}}
 
 The loop variable ('v' in this example) is placed in the namespace with two
 members, 'key' and 'value'. When iterating over a libmobject array, 'key' will
-contain the array index (starting from zero), and 'value' will contain the 
+contain the array index (starting from zero), and 'value' will contain the
 array element at that position. When iterating over a libmobject dictionary,
 'key' will contain the dictionary key and 'value' the value referenced by that
 key. Please note that dictionary iteration does not guarantee any particular
