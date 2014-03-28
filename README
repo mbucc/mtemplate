@@ -8,7 +8,11 @@
 
    For more info on cross-site scripting, see:
 
-   http://google-ctemplate.googlecode.com/svn/trunk/doc/xss_resources.html
+      http://google-ctemplate.googlecode.com/svn/trunk/doc/xss_resources.html
+
+   For info on different HTML escaping contexts, see:
+
+      http://google-ctemplate.googlecode.com/svn/trunk/doc/auto_escape.html
 
 ***************************************************************************
 
